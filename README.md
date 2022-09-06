@@ -1,4 +1,4 @@
-### Hi, I'm Mia or you can call me Cuttontail
+### Hi, I'm Mia, you can also call me Cuttontail
 
 - 🌐 blog: https://cuttontail.blog/ (build with hugo and github pages)
 - 🔭 I’m currently working on how to build a full stack responsive website
