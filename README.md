@@ -1,1 +1,1 @@
-## This is Mia speaking, does anyone copy?
+## This is Mia speaking. Anyone copy?
