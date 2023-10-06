@@ -1,3 +1,10 @@
-## Mia | Front-end Developer
+## Hi, I'm Mia 👻
 
-- Currently Learning React
+- I'm a frontend developer, making ✨AWSOME✨ website is my passion of life.
+- I speak 3 languages: Chinese(native), English(fluent) and Japanese(JLPT N2).
+
+## Now I'm learning... 👩‍💻
+- Tailwind
+- React
+- TypeScript
+- Java
