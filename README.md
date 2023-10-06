@@ -13,5 +13,5 @@
 - Java
 
 ## What am I doing with my life 👒
-- I'm try to get a job in Tokyo.
+- I'm trying to get a job in Tokyo.
 - I'm making as many projects as I can.
