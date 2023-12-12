@@ -33,6 +33,6 @@
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miawithcode&show_icons=true&locale=en&layout=compact" alt="miawithcode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miawithcode&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact" alt="miawithcode" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=miawithcode)](https://git.io/streak-stats)
