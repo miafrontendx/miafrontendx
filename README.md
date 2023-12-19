@@ -1,16 +1,16 @@
-# 👩‍🎨 Mia
+# ⛷️ Mia
 
-<p align="left"> <a href="https://twitter.com/cuttondev" target="blank"><img src="https://img.shields.io/twitter/follow/cuttondev?logo=twitter&style=for-the-badge" alt="cuttondev" /></a> </p>
+**`Frontend / Web Developer`**
 
-## I'm a Frontend / Web Developer
-- 💻 I enjoy building functionally ✨**aesthetic**✨ website.
--  🎤 I speak 3 languages: English(fluent), Japanese(JLPT N2) and Chinese(native).
-- 🪐 Yes, I do write [blogs](https://cuttontail.blog/).
-- ✉️ You can get in touch with me at miafrontend@gmail.com
+- I enjoy building functionally ✨**aesthetic**✨ website.
+- I speak 3 languages: English(fluent), Japanese(JLPT N2) and Chinese(native).
+- Yes, I do write [blogs](https://cuttontail.blog/).
+- You can get in touch with me at miafrontend@gmail.com
 
 #
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧰 Languages and Tools
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
