@@ -1,6 +1,6 @@
 # ⛷️ Mia
 
-**`Frontend / Web Developer`**
+**`Frontend Developer / UI & UX Designer`**
 
 - I enjoy building functionally ✨**aesthetic**✨ website.
 - I speak 3 languages: English(fluent), Japanese(JLPT N2) and Chinese(native).
