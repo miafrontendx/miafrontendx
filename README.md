@@ -23,10 +23,11 @@
   <img alt="JavaScript"
     src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-9D53F5?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Prettier"
     src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Figma"
-    src="https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=figma&logoColor=white" />
+    src="https://img.shields.io/badge/-Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ### Backend
