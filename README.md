@@ -2,7 +2,7 @@
 
 **`Frontend Developer | UI/UX Designer`**
 
-- I enjoy building functionally ✨**aesthetic**✨ website using morden technology.
+- I enjoy building functionally ✨**aesthetic**✨ website.
 - I speak 3 languages: English(fluent), Japanese(JLPT N2) and Chinese(native).
 - Yes, I do write [blogs](https://cuttontail.blog/).
 - You can get in touch with me at miafrontend@gmail.com
