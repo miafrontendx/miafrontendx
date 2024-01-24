@@ -30,7 +30,7 @@
     src="https://img.shields.io/badge/-Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-### Backend
+### Backend & Web3
 
 <p>
   <img alt="node.js"
@@ -41,6 +41,8 @@
   src="https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Golang"
   src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Solidity"
+  src="https://img.shields.io/badge/-Solidity-1C1C1C?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL"
@@ -50,11 +52,6 @@
   <img alt="Firebase"
     src="https://img.shields.io/badge/-Firebase-F57C00?style=flat-square&logo=firebase&logoColor=white" />
 </p>
-
-### Web3
-
-<img alt="Solidity"
-  src="https://img.shields.io/badge/-Solidity-1C1C1C?style=flat-square&logo=solidity&logoColor=white" />
 
 ### Enviroment
 
@@ -69,5 +66,5 @@
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miawithcode&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact" alt="miawithcode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miawithcode&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&hide=html&layout=compact" alt="miawithcode" /></p>
 <p><img align="left" src="https://streak-stats.demolab.com/?user=miawithcode" alt="miawithcode" /></p>
