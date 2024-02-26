@@ -37,6 +37,7 @@
   src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express"
   src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
+<!--   
   <img alt="Rust"
   src="https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Golang"
@@ -48,11 +49,11 @@
   <img alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Firebase"
-    src="https://img.shields.io/badge/-Firebase-F57C00?style=flat-square&logo=firebase&logoColor=white" />
+    src="https://img.shields.io/badge/-Firebase-F57C00?style=flat-square&logo=firebase&logoColor=white" /> 
+  -->
 </p>
 
-### Web3
-
+<!-- 
 <p>
   <img alt="Solidity"
   src="https://img.shields.io/badge/-Solidity-1C1C1C?style=flat-square&logo=solidity&logoColor=white" />
@@ -61,6 +62,7 @@
   <img alt="Uniswap"
   src="https://img.shields.io/badge/-Uniswap-FF007A?style=flat-square&logo=uniswap&logoColor=white" />
 </p>
+-->
 
 ### Environment
 
