@@ -17,7 +17,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-### Expertise in modern frameworks like
+### Skilled in modern frameworks like
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" />
