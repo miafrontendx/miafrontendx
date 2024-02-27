@@ -50,7 +50,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
 ### UI/UX design
 <p>
   <img alt="Figma"
-    src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
+    src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ### Environment
