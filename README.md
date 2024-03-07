@@ -2,7 +2,11 @@
 
 **`Frontend Developer | UI/UX Designer`**
 
-I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ website and dedicated to crafting exceptional web experiences. I speak 3 languages: English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via miafrontend@gmail.com for collaborations, opportunities, or just to chat.
+I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ website and dedicated to crafting exceptional web experiences. 
+
+I speak 3 languages: English (fluent), Japanese (JLPT N2) and Chinese (native). 
+
+Feel free to reach out to me via miafrontend@gmail.com for collaborations, opportunities, or just to chat.
 
 ## 🧰 Languages and Tools
 
