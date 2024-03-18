@@ -17,7 +17,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-### Skilled in modern frameworks like
+### Skilled in modern frameworks
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" />
@@ -47,12 +47,6 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   <img alt="Git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### UI/UX design
-<p>
-  <img alt="Figma"
-    src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
 ### Environment
 
 <p>
@@ -60,7 +54,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-## 🔗 Let's Connect!
+## 🔗 Find me at
 
 <a href="https://twitter.com/cuttondev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
