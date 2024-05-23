@@ -39,6 +39,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<!--
 ### Develop with
 
 <p>
@@ -48,6 +49,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
     src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
 </p>
+-->
 
 ### Environment
 
@@ -56,7 +58,7 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
-## 🔗 Find me
+## 🔗 Connect with me
 
 <a href="https://twitter.com/miawithcode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
