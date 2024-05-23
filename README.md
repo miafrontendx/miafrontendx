@@ -1,6 +1,6 @@
 # ⛷️ Mia
 
-**`Frontend Developer | UI/UX Designer`**
+**`Frontend/React Developer | UI/UX Designer`**
 
 I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ website and dedicated to crafting exceptional web experiences. I speak 3 languages: English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via miafrontend@gmail.com for collaborations, opportunities, or just to chat.
 
@@ -26,17 +26,13 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
     src="https://img.shields.io/badge/-tailwindcss-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Work with backend
+### Work with backend & database
 
 <p>
   <img alt="node.js"
   src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express"
   src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
-</p>
-
-### Database
-<p>
   <img alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB"
