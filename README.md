@@ -9,12 +9,12 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
 ### Proficient in 
 
 <p>
-  <img alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript"
     src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ### Skilled in modern frameworks
@@ -33,6 +33,12 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express"
   src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+### Database
+<p>
+  <img alt="MySQL"
+    src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
