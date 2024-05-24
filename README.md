@@ -58,9 +58,11 @@ I'm a frontend developer who enjoy building functionally ✨**aesthetic**✨ web
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
+<!--
 ## 🔗 Connect with me
 
 <a href="https://twitter.com/miawithcode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+-->
 
 #
 
