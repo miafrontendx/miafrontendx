@@ -2,7 +2,7 @@
 
 **`Frontend/React Developer | UI/UX Designer`**
 
-Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websites using **React/Next.js** and **TypeScript**. I'm also a multilingual who speak English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via ✉︎ miafrontend@gmail.com for collaborations, opportunities, or just to have a random conversation.
+Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websites using **React/Next.js**. I'm also a multilingual who speak English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via ✉︎ miafrontend@gmail.com for collaborations, opportunities, or just to have a random conversation.
 
 ## 🧰 Skills & Tools
 
