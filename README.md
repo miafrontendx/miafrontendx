@@ -1,6 +1,6 @@
 # ✨ Mia
 
-**`Frontend/React Developer | Designer Engineer`**
+**`Frontend Developer`**
 
 Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websites using **React/Next.js** and **TypeScript**. I'm also a multilingual who speak English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via ✉︎ miafrontend@gmail.com for collaborations, opportunities, or just to have a random conversation.
 
