@@ -1,6 +1,6 @@
 # 🏄‍♀️ Mia
 
-**`Frontend Developer`**
+**`Frontend Developer | Design Engineer`**
 
 Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websites using **React/Next.js** and **TypeScript**. I'm also a multilingual who speak English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via ✉︎ miafrontend@gmail.com for collaborations, opportunities, or just to have a random conversation.
 
@@ -55,7 +55,8 @@ Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websit
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="arc" src="https://img.shields.io/badge/-Arc-F85068?style=flat-square&logo=arc&logoColor=white" />
 </p>
 
 <!--
