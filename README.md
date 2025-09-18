@@ -64,8 +64,3 @@ Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websit
 
 <a href="https://twitter.com/miawithcode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 -->
-
-#
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miawithcode&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=compact" alt="miawithcode" /></p>
-<p><img align="left" src="https://streak-stats.demolab.com/?user=miawithcode" alt="miawithcode" /></p>
