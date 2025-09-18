@@ -2,65 +2,23 @@
 
 **`Frontend Developer | Design Engineer`**
 
-Hi there, I'm a frontend developer who build functionally ✨aesthetic✨ websites using **React/Next.js** and **TypeScript**. I'm also a multilingual who speak English (fluent), Japanese (JLPT N2) and Chinese (native). Feel free to reach out to me via ✉︎ miafrontend@gmail.com for collaborations, opportunities, or just to have a random conversation.
+Hi there👋, I'm a **frontend developer** who knows how to design ✨aesthetic✨ websites. I'm also great with buttery smooth web animations. Feel free to reach out to me via ✉️ miafrontend@gmail.com for collaborations, opportunities, or just to have a conversation.
 
-## 🧰 Skills & Tools
-
-### Proficient in 
+# 
+**`Skills & Tools`**
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript"
-    src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-### Skilled in modern frameworks
-
-<p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-tailwindcss-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Work with backend & database
-
-<p>
   <img alt="node.js"
   src="https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express"
-  src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MySQL"
-    src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-<!--
-### Develop with
-
-<p>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-9D53F5?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
-</p>
--->
-
-### Environment
-
-<p>
+   <img alt="postgresssql"
+  src="https://img.shields.io/badge/-PostgreSQL-40668E?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="arc" src="https://img.shields.io/badge/-Arc-F85068?style=flat-square&logo=arc&logoColor=white" />
 </p>
-
-<!--
-## 🔗 Connect with me
-
-<a href="https://twitter.com/miawithcode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
--->
